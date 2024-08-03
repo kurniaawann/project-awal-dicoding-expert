@@ -1,0 +1,24 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/path.jpg",
+      "genre_ids": [1, 2, 3, 4],
+      "id": 1,
+      "originCountry ": ["DE"],
+      "original_language": "en",
+      "originalName": "Original name",
+      "overview": "Overview",
+      "popularity": 1.0,
+      "poster_path": "/path.jpg",
+      "release_date": "2020-05-05",
+      "name": "name",
+      "video": false,
+      "vote_average": 1.0,
+      "vote_count": 1
+    }
+  ],
+  "total_pages": 8,
+  "total_results": 157
+}
